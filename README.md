@@ -267,9 +267,7 @@ The elements in the array are:
 ~~~
 
 ## RESULT
-~~~
 
 Thus the C program to read and display an array of any 6 integer elements using pointer has been executed
 
-~~~
 
